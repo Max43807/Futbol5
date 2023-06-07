@@ -1,0 +1,7 @@
+com\info\fut5\util\FileUtils.class
+com\info\fut5\Fut5.class
+com\info\fut5\domain\Equipo.class
+com\info\fut5\service\EquipoService.class
+com\info\fut5\service\EquipoServiceImpl.class
+com\info\fut5\domain\Entrenador.class
+com\info\fut5\domain\Jugador.class

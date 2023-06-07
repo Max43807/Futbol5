@@ -1,0 +1,2 @@
+ID,Nombre,Apellido,Altura,Posicion,Goles,Partidos,Capitan,NumeroCamiseta,Equipo
+0,Samiro,Spelman,109,00,delantero,2,3,SI,2,Los Samiros
